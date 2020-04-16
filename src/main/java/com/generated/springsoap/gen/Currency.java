@@ -6,7 +6,7 @@
 //
 
 
-package com.baeldung.springsoap.gen;
+package com.generated.springsoap.gen;
 
 import javax.xml.bind.annotation.XmlEnum;
 import javax.xml.bind.annotation.XmlType;

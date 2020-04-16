@@ -6,7 +6,7 @@
 //
 
 
-package com.baeldung.springsoap.gen;
+package com.generated.springsoap.gen;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
